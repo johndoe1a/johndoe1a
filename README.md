@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @johndoe1a
 - 👀 I’m interested in Applikation Develop
 - 🌱 I’m currently learning programm language 
-- 💞️ I’m looking to collaborate on Google firebase
+- 💞️ I’m looking to collaborate on Firebase/Android Studio/Azure
 - 📫 How to reach me here in github
 
 <!---
