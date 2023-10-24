@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @johndoe1a
-- 👀 I’m interested in app Developing 
+- 👀 I’m interested in Applikation Develop
 - 🌱 I’m currently learning programm language 
 - 💞️ I’m looking to collaborate on Google firebase
 - 📫 How to reach me here in github
